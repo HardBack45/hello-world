@@ -1,3 +1,2 @@
-# hello-world
-tutorial
-my name is hardback
+My python projects
+        -ken kaneki
